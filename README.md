@@ -1,9 +1,11 @@
 pacman
 ======
 
-AI based two player pacman game written using C++. The game engine calls the files of two
+Artificial Intelligence based two player pacman game written using C++. The game engine calls the files of two
 players: player1 and player2. Similarly different types of ghosts can be used by just adding
 different ghosts files.
+
+Read the Problem Statement and Compiling Instructions for better understanding.
 
 This game was developed by Shagun Akarsh, Abhay Gupta and Gunjan Sharma for an event named 
 Eureka organised under the banner of iFest 2011, IEEE student Chapter IIT Roorkee.
